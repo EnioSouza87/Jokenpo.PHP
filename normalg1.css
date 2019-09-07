@@ -1,0 +1,45 @@
+
+
+
+#titulo{
+    background-color: darkslategray;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    display: block;
+    text-align: center;
+    text-shadow: 3px 3px 3x black;
+    border: 2px black solid;
+    text-decoration: none;
+
+}
+
+#divEsquerda{
+    background-color: olivedrab;
+    border: 2px black solid;
+    display: block;
+    background-size: 150%;
+    height: 700px;
+    width:655px;
+    float:left;
+    text-align: center;
+    
+}
+
+#divDireita{
+    background-color: olivedrab;
+    border: 2px black solid;
+    display: block;
+    background-size: 150%;
+    height: 700px;
+    width:655px;
+    float: right;
+    text-align: center;
+    
+}
+
+#formulario{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 1px black;
+}
